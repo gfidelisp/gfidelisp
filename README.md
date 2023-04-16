@@ -19,4 +19,4 @@ I am a Mechanical Engineer with a Master's degree in Thermal Engineering, curren
 
 Beyond my expertise in thermodynamics, heat transfer, and fluid dynamics, I have extensive experience in systems development, optimization methodologies, and a deep understanding of machine and deep learning, data science, and Python software development. 
 
-You can access my work via my [LinkedIn](linkedin.com/in/guilhermefidelisp), [GoogleScholar](https://scholar.google.com.br/citations?user=khra_qEAAAAJ&hl=pt-BR), or [ResearchGate](https://www.researchgate.net/profile/Guilherme-Peixer?ev=hdr_xprf) Profiles
+You can access my work via my [LinkedIn](https://www.linkedin.com/in/guilhermefidelisp/), [GoogleScholar](https://scholar.google.com.br/citations?user=khra_qEAAAAJ&hl=pt-BR), or [ResearchGate](https://www.researchgate.net/profile/Guilherme-Peixer?ev=hdr_xprf) Profiles
