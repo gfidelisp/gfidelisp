@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 #### Research and Development Engineer at [Polo](https://polo.ufsc.br/en/index.html)
 
-Designing and Building Innovative Thermal Systems
+- 🔭 I’m currently working on designing and building innovative thermal systems
 
+- 👯 I’m looking to collaborate on the application of machine and deep learning for modeling and optimization
 
+- 📫 How to reach me: [guilherme.fidelisp@gmail.com](guilherme.fidelisp@gmail.com)
 
-You can learn more about my work via my [LinkedIn](https://www.linkedin.com/in/guilhermefidelisp/), [GoogleScholar](https://scholar.google.com.br/citations?user=khra_qEAAAAJ&hl=pt-BR), or [ResearchGate](https://www.researchgate.net/profile/Guilherme-Peixer?ev=hdr_xprf) profiles or reach 
+- ⚡ You can find more about me on: [LinkedIn](https://www.linkedin.com/in/guilhermefidelisp/), [GoogleScholar](https://scholar.google.com.br/citations?user=khra_qEAAAAJ&hl=pt-BR), or [ResearchGate](https://www.researchgate.net/profile/Guilherme-Peixer?ev=hdr_xprf).
