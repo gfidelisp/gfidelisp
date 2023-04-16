@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Mechanical Engineer with a Master's degree in Thermal Engineering, currently working on the development of innovative thermal systems. 
+#### Research and Development Engineer at [Polo](https://polo.ufsc.br/en/index.html)
 
-Beyond my expertise in thermodynamics, heat transfer, and fluid dynamics, I have extensive experience in systems development, optimization methodologies, and a deep understanding of machine and deep learning, data science, and Python software development. 
+Designing and Building Innovative Thermal Systems
 
-You can access my work via my [LinkedIn](https://www.linkedin.com/in/guilhermefidelisp/), [GoogleScholar](https://scholar.google.com.br/citations?user=khra_qEAAAAJ&hl=pt-BR), or [ResearchGate](https://www.researchgate.net/profile/Guilherme-Peixer?ev=hdr_xprf) Profiles
+
+
+You can learn more about my work via my [LinkedIn](https://www.linkedin.com/in/guilhermefidelisp/), [GoogleScholar](https://scholar.google.com.br/citations?user=khra_qEAAAAJ&hl=pt-BR), or [ResearchGate](https://www.researchgate.net/profile/Guilherme-Peixer?ev=hdr_xprf) profiles or reach 
