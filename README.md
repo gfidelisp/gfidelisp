@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a Mechanical Engineer with a Master's degree in Thermal Engineering, who is passionate about understanding the intricacies of how everything works and thrives in challenging environments.
+
+Currently, I am leading the technical development of one of the largest magnetocaloric systems ever built, where I am responsible for multi-objective optimization of components, quantitative data analysis, performance evaluation of sub-systems, and the creation of robust and optimized prototype solutions.
+
+Beyond my expertise in thermodynamics, heat transfer, and fluid dynamics, I have extensive experience in systems development, optimization methodologies, and a deep understanding of machine and deep learning, data science, and Python software development.
