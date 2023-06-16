@@ -3,7 +3,7 @@
 <!--
 **gfidelisp/gfidelisp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![General badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+
 
 Here are some ideas to get you started:
 
@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 -->
 
 #### Research and Development Engineer at [Polo](https://polo.ufsc.br/en/index.html).
+
+[![General badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
 
 - I’m currently working on designing and building innovative thermal systems, such as [magnetic refrigerators](https://www.youtube.com/watch?v=5lVMstvAjgk).
 
