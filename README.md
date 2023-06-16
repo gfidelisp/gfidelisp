@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 #### Research and Development Engineer at [Polo](https://polo.ufsc.br/en/index.html).
 
- [![General badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white))](https://shields.io/)
-
 - I’m currently working on designing and building innovative thermal systems, such as [magnetic refrigerators](https://www.youtube.com/watch?v=5lVMstvAjgk).
 
 - I’m looking to collaborate on the application of machine and deep learning for modeling and optimization.
