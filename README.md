@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on the application of machine and deep learning for modeling and optimization.
 
-- ⚡ You can find more about me on: [LinkedIn](https://www.linkedin.com/in/guilhermefidelisp/), [GoogleScholar](https://scholar.google.com.br/citations?user=khra_qEAAAAJ&hl=pt-BR), or [ResearchGate](https://www.researchgate.net/profile/Guilherme-Peixer?ev=hdr_xprf).
+- ⚡ You can find more about me on: [LinkedIn](https://www.linkedin.com/in/guilhermefidelisp/), [GoogleScholar](https://scholar.google.com.br/citations?user=khra_qEAAAAJ&hl=pt-BR), [ResearchGate](https://www.researchgate.net/profile/Guilherme-Peixer?ev=hdr_xprf), or [ORCID](https://orcid.org/0000-0002-5238-4910).
 
 - 📫 How to reach me: guilherme.fidelisp@gmail.com.
